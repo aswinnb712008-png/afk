@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 const { internalGuard, getExpireDate, getHumanExpiry, expiredMessage } = require('./guard');
 
 // ===== PUBLIC CONFIG (safe to edit) =====
-const SERVER_HOST     = 'MrAAGOp.aternos.me';
-const SERVER_PORT     = 54963;
-const BOT_USERNAME    = 'AAGOP';
+const SERVER_HOST     = 'nokaam.falixsrv.me';
+const SERVER_PORT     = 43905;
+const BOT_USERNAME    = 'Gumasthaaan';
 const MC_VERSION      = '1.16.5';
 const DEFAULT_COMMAND = '/register aagop04';
 
