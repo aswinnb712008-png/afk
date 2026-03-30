@@ -1,6 +1,6 @@
 // guard.js
 
-const _encodedExpiry = 'MjAyNi0wMy0yNFQwMDowMDowMC4wMDBa';
+const _encodedExpiry = 'MjAyNy0wMS0wMVQwMDowMDowMC4wMDBa';
 
 function decodeBase64(str) {
   return Buffer.from(str, 'base64').toString('utf8');
